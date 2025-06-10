@@ -12,11 +12,11 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      {/* <Router>
+      <Router>
         <Routes>
-          <Route path='/profile' element={<MainPage />} />
+          <Route path='/react_app/profile' element={<MainPage />} />
         </Routes>
-      </Router> */}
+      </Router>
       Hello World
     </div>
   );
