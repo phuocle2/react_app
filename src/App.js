@@ -14,7 +14,7 @@ function App() {
     <div className="App">
       <Router>
         <Routes>
-          <Route path='/react_app/profile' element={<MainPage />} />
+          <Route path='/profile' element={<MainPage />} />
         </Routes>
       </Router>
       Hello World
