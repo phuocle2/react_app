@@ -17,7 +17,7 @@ function App() {
           <Route path='/profile' element={<MainPage />} />
         </Routes>
       </Router>
-      {/* Hello World */}
+      Hello World
     </div>
   );
 }
